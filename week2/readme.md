@@ -10,7 +10,7 @@
 
 不过，我刚刚看了这周的学习材料，觉得选的材料有点抽象。不是很好理解。尤其是stanford的课件。理解cnn我觉得最重要的应该就是下面的这个公式了。
 
-![](https://visualstudiomagazine.com/articles/2014/03/01/~/media/ECG/visualstudiomagazine/Images/2014/03/EvolutionaryAlgorithm.ashx)
+![](https://github.com/yingjun2/6weekDL/blob/master/week2/cnn.png)
 
 
 其中conv主要负责pattern识别，relu和pool都是负责减少数据维度的。
