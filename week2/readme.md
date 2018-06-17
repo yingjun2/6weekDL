@@ -18,3 +18,5 @@
 掌握了cnn，就可以直接上手图像识别和语音识别了。（因为图片和语音本身就是多维的）。期待一下。
 
 对了，我在youtube上面还发现了这个视频，我觉得不错，可以帮助大家理解cnn。可以看看。https://www.youtube.com/watch?v=YRhxdVk_sIs
+
+cnn example here. credit to online authors.
